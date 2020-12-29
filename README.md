@@ -2,7 +2,7 @@
 
 This is a simple example of websockets with django channels.
 
-tyr it out by using the following python script:
+try it out by running the following python script:
 
 ```
 import json
