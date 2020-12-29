@@ -21,3 +21,5 @@ for i in range(1000):
     ws.send(json.dumps({'message': random.randint(1, 100)}))
     
 ```
+
+Please give it a star if you found it useful.
